@@ -1,4 +1,7 @@
-### Hi there 👋
+### Kaixo (hello) 👋
+
+I’m currently professor and Systems Administrator of the CIFP Don Bosco LHII.
+Errenteria, Gipuzkoa, Basque Country
 
 <!--
 **patxirb/patxirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
